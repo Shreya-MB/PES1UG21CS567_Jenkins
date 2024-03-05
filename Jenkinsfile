@@ -22,5 +22,4 @@ post{
 failure{
 error 'Pipeline failed'
 }
-}
-}
+}}
